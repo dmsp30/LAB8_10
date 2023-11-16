@@ -1,0 +1,38 @@
+.c-item {
+    height: 400px;
+}
+
+.c-img {
+    height: 100%;
+}
+
+.posts {
+    margin-top: 20px;
+}
+
+.form-control {
+    border-width: 2px;
+}
+
+.form-control:focus{
+    box-shadow: none;
+    border: 2px solid rgb(169, 169, 169);
+}
+
+.dropdown-item:focus,
+.dropdown-item:hover {
+    background-color: rgb(169, 169, 169);
+}
+
+.posts {
+    margin-bottom: 20px;
+}
+
+.card-subtitle {
+    color: rgb(169, 169, 169);
+}
+
+.card-text.created-updated {
+    color: rgb(169, 169, 169);
+    margin-bottom: 0.5rem;
+}
